@@ -1,0 +1,264 @@
+body{
+	background-color:#F8F8FF;
+}
+ .body{
+	background-color:#F8F8FF;
+}
+.largebox1{
+ height: 650px;
+ width: 100%;
+ background-color:#F8F8FF;
+}
+.box12{
+	height: 80px;
+	width:80px;
+	float:left;
+}
+.box1{
+  background-color:#F8F8FF;
+  width:45%;
+  height: 70px;
+  float: left;
+  color: red;
+  margin-left: 60px;
+}
+.box2{
+  background-color:#F8F8FF;
+  width:400px;
+  height: 600px;
+  float: right;
+  margin-right: 100px;
+}
+.box3{
+  background-color: #F8F8FF;
+  width:400px;
+  height: 400px;
+  float: left;
+  margin-top: 80px;
+  margin-left: 180px;
+  font-size: 23px;
+  color:#696969;
+}
+.hed1{
+	font-size: 40px;
+	font-family: 'Rowdies', cursive;
+	color: black;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #F8F8FF;
+  font-size: 20px;
+  margin-top: 0px;
+   color:#696969;
+}
+
+li {
+  float: left;
+  padding-right:8px;
+    color:#696969;
+}
+
+li a {
+  display: block;
+  text-decoration-line: none;
+   padding: 19px;
+    color:#696969;
+}
+button.mbtn {
+  padding:0.4em 1.5em;
+  border-radius: 18px;
+  color:orange;
+  background-color:#F8F8FF;
+  font-size:0.7em;
+  border:1px;
+  cursor:pointer;
+  border-style: solid;
+  border-color: black;
+
+}
+
+.hed2{
+ margin-left: 180px;
+  font-size: 23px;
+  color:#696969;
+}
+.box5{
+	width: 400px;
+	height: 50px;
+	float: left;
+	background-color:#F8F8FF;
+	color: white;
+	margin-left: 180px;
+    font-size: 40px;
+	font-family: 'Rowdies', cursive;
+	color: black;
+}
+/*.box4{
+	background-color: black;
+	color: red;
+	width: 400px;
+	height: 50px;
+	float: right;
+}*/
+.box4 ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #F8F8FF;
+  font-size: 25px;
+  margin-top: 0px;
+ color:#696969;
+}
+
+.box4 li {
+  float: left;
+  padding-right:7px;
+    color:#696969;
+}
+
+.box4 li a {
+  display: block;
+  text-decoration-line: none;
+   padding: 5px;
+ color:#696969;
+  font-size: 20px;
+}
+.largebox2{
+	height: 650px;
+	width: 74%;
+	background-color:#F8F8FF;
+	margin-left: 180px;
+}
+.box6{
+	height:550px;
+	width:360px;
+	background-color: white;
+	float: left;
+}
+.box7{
+	height: 275px;
+	width: 310px;
+	float: left;
+}
+.largebox3{
+	height: 420px;
+	width: 74%;
+	background-color: #F8F8FF;
+	margin-top: 100px;
+	margin-left: 180px;
+	font-size: 20px;
+	 color:#696969;
+}
+.box8{
+	height: 400px;
+	width: 50%;
+	background-color: #F8F8FF;
+	float: left;
+}
+.box9{
+	height: 380px;
+	width: 50%;
+	background-color:#F8F8FF;
+	float:left;
+}
+.hed3{
+	font-size: 35px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+button.mb {
+  padding:0.9em 2em;
+  border-radius: 9px;
+   color:orange;
+  background-color:#F8F8FF;
+  font-size:0.7em;
+  border:1px;
+  cursor:pointer;
+  border-style: solid;
+  border-color: black;
+}
+.bub{
+	text-align: center;
+	margin-top: 50px;
+}
+.hed4{
+	margin-left: 180px;
+	font-size: 23px;
+  color:#696969;
+}
+.hed5{
+	font-size: 45px;
+	margin-left: 180px;
+	font-family: 'Rowdies', cursive;
+	color: black;
+}
+.hed6{
+    margin-left: 180px;
+	font-size: 35px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+.box10{
+	height: 300px;
+	width: 29%;
+	background-color:#F8F8FF;
+	font-size: 21px;
+	margin-left: 180px;
+	margin-top: 20px;
+	float: left;
+	margin-bottom: 100px;
+}
+input{
+	line-height: 3em;
+	border-radius: 10px;
+	padding-left: 10px;
+
+}
+
+button.m {
+  padding:0.6em 1.5em;
+  border-radius: 9px;
+  color:white;
+  background-color:black;
+  font-size:0.7em;
+  border:1px;
+  cursor:pointer;
+  border-style: solid;
+  border-color: black;
+  font-size: 20px;
+}
+.box11{
+	height: 150px;
+	width: 25%;
+	background-color:#F8F8FF;
+	float: left;
+	margin-top: 20px;
+	font-size: 21px;
+}
+.box11 input{
+	line-height: 10em;
+	border-radius: 10px;
+}
+.largebox31{
+	height: 420px;
+	width: 74%;
+	background-color: #F8F8FF;
+	margin-top: 100px;
+	margin-left: 180px;
+	font-size: 20px;
+	 color:#696969;
+}
+.box81{
+	height: 400px;
+	width: 47%;
+	background-color: #F8F8FF;
+	float: left;
+	padding-left: 20px;
+}
+.box91{
+	height: 380px;
+	width: 50%;
+	background-color:#F8F8FF;
+	float:left;
+}
